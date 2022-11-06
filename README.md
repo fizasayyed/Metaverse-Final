@@ -18,6 +18,14 @@ Mint NFT's here 🚀
 
 https://goerli.etherscan.io/address/0xa724b4e3f300c04fb41c9086a2e2227b1bb484fa#writeContract
 
+## How to mint NFT?
+-Switch to Goerli Network in Metamask
+- Go to the contract 👆
+- Go to Write Contract
+- Go to the 2nd Option (Mint)
+- Add mint amount (Minimum: 0 ETH)
+- Add amount of NFTs to be minted
+
 ## Run Locally
 
 Clone the project
