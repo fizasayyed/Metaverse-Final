@@ -9,6 +9,8 @@ A simple concept of a Metaverse using JavaScript and three.js.
 
 https://fiza-metaverse.vercel.app/
 
+https://fiza-metaverse-final-fizasayyed.vercel.app/
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
