@@ -66,7 +66,7 @@ For YouTube tutorial => https://www.youtube.com/watch?v=Fvs694mWnoY&ab_channel=H
 
 ## Screenshots
 
-![App Screenshot](https://i2.paste.pics/ab4a1e25378dd096ca9b2668cca6fbba.png "App Screenshot")
+![App Screenshot](https://i2.paste.pics/21bc800df82e3cf988f424f520620256.png "App Screenshot")
 
 
 
