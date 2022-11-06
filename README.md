@@ -9,12 +9,14 @@ A simple concept of a Metaverse using JavaScript and three.js.
 
 https://fiza-metaverse.vercel.app/
 
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## NFT
+Mint NFT's here 🚀
+
+https://goerli.etherscan.io/address/0xa724b4e3f300c04fb41c9086a2e2227b1bb484fa#writeContract
 
 ## Run Locally
 
@@ -41,8 +43,16 @@ Start the server
 
 ## Features
 
-- NFT 
-- ERC721
 - Metaverse
 - Three.js
+- Solidity
+- NFT 
+- ERC721
+
+## References
+
+For three.js => https://threejs.org/
+For YouTube tutorial => https://www.youtube.com/watch?v=Fvs694mWnoY&ab_channel=HashLipsNFT
+
+
 
