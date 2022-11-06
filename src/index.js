@@ -46,7 +46,7 @@ connect.then((result) =>{
 	result.buildings.forEach((b, index) => {
 		if(index <= result.supply) {
 			const boxGeometry = new THREE.BoxGeometry(b.w, b.h, b.d);
-			const boxMaterial = new THREE.MeshPhongMaterial( { color: 0x00ff00 } );
+			const boxMaterial = new THREE.MeshPhongMaterial( { color: 0xff6666 } );
 			const box = new THREE.Mesh( boxGeometry, boxMaterial );			
 			box.position.set(b.x, b.y, b.z);
 			scene.add( box );
