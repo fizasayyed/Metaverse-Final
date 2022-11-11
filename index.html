@@ -4,11 +4,39 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
     <title>Fiza's Metaverse</title>
-    <style>
-        
+    <style> 
+        * {
+        font-family: 'Source Sans Pro', sans-serif;
+        }
+
         body {
             margin: 0; 
+        }
+        /* Add a black background color to the top navigation */
+        .topnav {
+	    background-color: rgb(236, 236, 236);
+        font-size: larger;
+	    overflow: hidden;
+        }
+        .button {
+        background-color: #eb6821; /* Orange */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        margin-left: 5%;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        box-shadow: 0 9px #999;
+        }
+        .button:hover {background-color: #d72f20}
+        .button:active {
+        background-color: #d72f20;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
         }
     </style>
 </head>
@@ -17,5 +45,9 @@
     <!--Your JS file-->
     <script src="./src/index.js" type="module"></script>
     <script src ="https://unpkg.com/web3@latest/dist/web3.min.js"></script>
+    <div class="topnav">
+        Mint buildings here 👉 
+        <button class="button" onclick="window.open('https://goerli.etherscan.io/address/0xa724b4e3f300c04fb41c9086a2e2227b1bb484fa#writeContract')">Buy Buildings</button>
+      </div>
 </body>
 </html>
